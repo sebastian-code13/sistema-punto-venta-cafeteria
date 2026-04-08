@@ -1,0 +1,16 @@
+========== CAFETERÍA - TICKET DE VENTA ==========
+RFC: JIG250509C-13
+ID Venta: 0
+Cliente: BASTIAN SANCHEZ (ID: 4)
+ID Empleado: 2
+Tipo de Pago: Transferencia
+Fecha: Tue May 20 09:23:35 CST 2025
+
+Producto             Cantidad   P.Unitario Subtotal  
+--------------------------------------------------
+GLACEON ICED LATTE   2          58.00      116.00    
+--------------------------------------------------
+TOTAL: $116.00
+Puntos generados: 11
+Puntos acumulados: 25
+==================================================
